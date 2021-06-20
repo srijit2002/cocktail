@@ -16,7 +16,7 @@ const App = () => {
       <Router>
         <Navbar />
         <Switch>
-          <Route exact path="/"><Home/></Route>
+          <Route exact path="/cocktailfinder"><Home/></Route>
           <Route path="/about"><About/></Route>
           <Route path="/cocktail/:id"><Cocktail/></Route>
           <Route path="*"><ErrorPage/></Route>

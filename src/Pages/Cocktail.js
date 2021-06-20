@@ -42,7 +42,7 @@ const Cocktail = () => {
                         </ol>
                     </li>
                 </ul>
-                    <Button path="/" text="Back to home"/>
+                    <Button path="/cocktailfinder" text="Back to home"/>
             </ContainerDetails>
         </ContainerWrapper>
     )

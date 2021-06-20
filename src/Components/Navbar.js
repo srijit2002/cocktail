@@ -18,12 +18,12 @@ const Navbar = () => {
                 <CgMenuGridR className="icon hamburger--icon" onClick={()=>ToggleHamburgerMenu()}/>
                
                 <HamburgerMenu scaleValue={scaleForHamburger}>
-                    <li><Link className="link" to="/">Home</Link></li>
+                    <li><Link className="link" to="/cocktailfinder">Home</Link></li>
                     <li><Link className="link" to="/about">About</Link></li>
                 </HamburgerMenu>
             
             <ul>
-                <li><Link className="link" to="/">Home</Link></li>
+                <li><Link className="link" to="/cocktailfinder">Home</Link></li>
                 <li><Link className="link" to="/about">About</Link></li>
             </ul>
             <SearchWrapper>
