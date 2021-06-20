@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/cocktailfinder/static/js/main.ec97b089.chunk.js",
-    "main.js.map": "/cocktailfinder/static/js/main.ec97b089.chunk.js.map",
+    "main.js": "/cocktailfinder/static/js/main.ba89ae36.chunk.js",
+    "main.js.map": "/cocktailfinder/static/js/main.ba89ae36.chunk.js.map",
     "runtime-main.js": "/cocktailfinder/static/js/runtime-main.5d596cf5.js",
     "runtime-main.js.map": "/cocktailfinder/static/js/runtime-main.5d596cf5.js.map",
     "static/js/2.206302d2.chunk.js": "/cocktailfinder/static/js/2.206302d2.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.5d596cf5.js",
     "static/js/2.206302d2.chunk.js",
-    "static/js/main.ec97b089.chunk.js"
+    "static/js/main.ba89ae36.chunk.js"
   ]
 }
